@@ -1,73 +1,5 @@
 [
   {
-    "createdAt": "2019-4-21 18:00:00",
-    "updatedAt": "2019-4-21 18:00:00",
-    "title": "The Ethics and Macroeconomics of Automation",
-    "slug": "the-ethics-and-macroeconomics-of-automation",
-    "image": "/img/posts/automation.jpg",
-    "subtitle": "Finding purpose, work, and flow with our machine friends",
-    "topics": [
-        "thoughts",
-        "technology",
-        "ethics"
-    ]
-  },
-  {
-    "createdAt": "2018-08-6 8:56:30",
-    "updatedAt": "2018-08-6 8:56:30",
-    "title": "What I did this summer",
-    "slug": "what-i-did-this-summer",
-    "image": "/img/posts/summer.jpg",
-    "subtitle": "Growth, fun, meaning-hunting",
-    "topics": [
-      "thoughts",
-      "review"
-    ]
-  },
-  {
-    "createdAt": "2018-08-6 8:56:30",
-    "updatedAt": "2018-08-6 8:56:30",
-    "title": "Re-engineering the site",
-    "slug": "re-engineering-the-site",
-    "image": "/img/posts/new-site.jpg",
-    "subtitle": "Putting new learnings into practice",
-    "topics": [
-      "code"
-    ]
-  },
-  {
-    "createdAt": "2018-06-23 13:40:31",
-    "updatedAt": "2018-06-23 13:40:31",
-    "title": "Reflections on sophomore year",
-    "slug": "reflections-on-sophomore-year",
-    "image": "/img/posts/adam.png",
-    "subtitle": "Reconciling consistency and cyclicity",
-    "topics": [
-      "thoughts"
-    ]
-  },
-  {
-    "createdAt": "2017-08-20 22:55:48",
-    "updatedAt": "2017-09-02 03:58:10",
-    "title": "The art of leg breaking—dealing with expected and unexpected change",
-    "slug": "the-art-of-leg-breaking",
-    "subtitle": "I wouldn't recommend it, though I did learn from it",
-    "image": "/img/posts/connor-and-bridge.jpg",
-    "topics": [
-      "thoughts"
-    ]
-  },
-  {
-    "createdAt": "2017-05-30 15:21:36",
-    "updatedAt": "2017-06-06 20:40:03",
-    "title": "Building the blog—the thought process",
-    "slug": "building-the-blog-the-thought-process",
-    "subtitle": "Creating a platform I can contribute to and learn from",
-    "topics": [
-      "thoughts"
-    ]
-  },
-  {
     "createdAt": "2017-05-30 15:24:39",
     "updatedAt": "2017-06-14 19:05:24",
     "title": "Building the blog—the tech side",
@@ -75,6 +7,6 @@
     "subtitle": "Putting functionality first",
     "topics": [
       "code"
-    ]
-  }
+    ],
+  },
 ]
