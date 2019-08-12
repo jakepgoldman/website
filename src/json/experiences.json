@@ -1,65 +1,29 @@
 [
   {
-    "title": "Forward Deployed Software Engineering Intern",
-    "location": "London, UK",
-    "company": "Palantir",
-    "startDate": "June",
+    "title": "Technology Associate Intern",
+    "location": "Westport, CT",
+    "company": "Bridgewater",
+    "startDate": "June 2019",
     "endDate": "August 2019",
-    "description": "<ul><li>Will work with clients to curate Palantir's software to meet their needs.</li></ul>",
+    "description": "<ul><li>Worked on improving the Research Technology build system within the Engineering Productivity team.</li></ul>",
     "image": "palantir.jpg"
   },
   {
-    "title": "Growth Intern",
-    "location": "Bangalore, India",
-    "company": "ZestMoney",
-    "startDate": "May",
-    "endDate": "June 2019",
-    "description": "<ul><li>One of 13 students chosen to be a <a href=\"https://entrepreneurship.wharton.upenn.edu/wharton-india-entrepreneurship-fellows/\">Wharton India Entrepreneurship Fellow</a> in the program's inaugural year.</li><li>Conducted comprehensive competitive analysis and new market entry research for Bangalore-based ZestMoney.</li></ul>",
+    "title": "Software Engineer",
+    "location": "Tel Aviv, Israel",
+    "company": "Axonius",
+    "startDate": "June 2018",
+    "endDate": "December 2018",
+    "description": "<ul><li>Built and shipped backend features for several multinational companies.</li></ul>",
     "image": "zest.svg"
   },
   {
-    "title": "Software Engineering Intern",
-    "location": "San Jose, CA",
-    "company": "PayPal",
-    "startDate": "May",
-    "endDate": "August 2018",
-    "description": "<ul><li>Full-stack JS feature development and testing (Node, Angular, Chai, Mocha).</li><li>Contributed in production to \"Pay with PayPal\" checkout flow.</li><li>Exercised $100K budget to dynamically introduce incentives at checkout.</li><li>Markedly improved conversion rates through targeted A/B tests.</li><li>Re-architected and consolidated modal components used throughout the checkout app for better device compatibility and a more consistent UI.</li></ul>",
+    "title": "Residential Teaching Assistant",
+    "location": "Philadelphia, PA",
+    "company": "Management and Technology Summer Institute",
+    "startDate": "July 2017",
+    "endDate": "July 2017",
+    "description": "<ul><li>Advised the development of a computer vision system that reads license plates and references a list of handicap drivers.</li></ul>",
     "image": "paypal.png"
-  },
-  {
-    "title": "Software Engineering Intern",
-    "location": "Los Angeles, CA",
-    "company": "Honey",
-    "startDate": "June",
-    "endDate": "August 2017",
-    "description": "<ul><li>Wrote middleware and REST API endpoints for web and mobile e-commerce platforms.</li> <li>Worked within an agile engineering team to build out new production features.</li><li>Technologies: JavaScript, Git, Node, Express, React Native, React, Jest, jQuery.</li></ul>",
-    "image": "honey.svg"
-  },
-  {
-    "title": "Product Manager, CIS 350: Software Engineering",
-    "location": "Philadelphia, PA",
-    "company": "University of Pennsylvania",
-    "startDate": "January 2019",
-    "endDate": "Present",
-    "description": "<ul><li>Guided two teams concurrently through agile development cycles.</li><li>Oversaw students in developing mobile apps on Android, admin panels on web, and backend servers running on Node.js with MongoDB.</li></ul>",
-    "image": "penn.jpg"
-  },
-  {
-    "title": "Teaching Assistant, CIS 197: JavaScript",
-    "location": "Philadelphia, PA",
-    "company": "University of Pennsylvania",
-    "startDate": "August 2018",
-    "endDate": "Present",
-    "description": "<ul><li>Aided in development of homework sets, lectures, test suites, documentation, and projects.</li><li>Curriculum focuses on JS, Node, Express, React, Redux, and React Native.</li><li>Hosted office hours to help student with course assignments and concepts.</li></ul>",
-    "image": "penn.jpg"
-  },
-  {
-    "title": "Co-Founder & Developer",
-    "location": "Philadelphia, PA",
-    "company": "Riplo",
-    "startDate": "April 2018",
-    "endDate": "Present",
-    "description": "<ul><li>Led web and mobile development team through multiple concurrent projects.</li><li>Created full-stack web and mobile apps for startups and small businesses.</li><li>Leveraged modern technologies and industry-trained best-practices.</li></ul>",
-    "image": "riplo.svg"
   }
 ]
