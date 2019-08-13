@@ -5,12 +5,7 @@
     "company": "Bridgewater",
     "startDate": "June 2019",
     "endDate": "August 2019",
-    "description": """<ul><li>Worked on improving the Research Technology build system within the Engineering Productivity team.</li>
-    <li>Converted all of Research Technology’s end-to-end test suite from being compiled and packaged by SBT to Bazel. Resulted in the adoption of a universal build tool, reducing the suite build and test time by 35%.</li>
-    <li>Transformed test reports into an interactive webpage, allowing engineers to develop and debug more efficiently.</li>
-    <li>Built a smoke test for the DSL team in Research Technology. Reduced development wait-time from 2 hours to 30 mins.</li>
-    <li>Used Bazel, Python, HTML/CSS, Scala, Gerrit, Buildbot, SBT, Pants, Bloop.</li>
-    </ul>""",
+    "description": "<ul><li>Worked on improving the Research Technology build system within the Engineering Productivity team.</li><li>Converted all of Research Technology’s end-to-end test suite from being compiled and packaged by SBT to Bazel. Resulted in the adoption of a universal build tool, reducing the suite build and test time by 35%.</li><li>Transformed test reports into an interactive webpage, allowing engineers to develop and debug more efficiently.</li><li>Built a smoke test for the DSL team in Research Technology. Reduced development wait-time from 2 hours to 30 mins.</li><li>Used Bazel, Python, HTML/CSS, Scala, Gerrit, Buildbot, SBT, Pants, Bloop.</li></ul>",
     "image": "bw.png"
   },
   {
@@ -19,12 +14,7 @@
     "company": "Axonius",
     "startDate": "June 2018",
     "endDate": "December 2018",
-    "description": """<ul><li>Built and shipped backend features for several multinational companies.</li><li>Features include integrative support for Dropbox Business, Cisco Advanced Malware Protection (AMP), Solarwinds Network Performance Manager, Fresh Service and Bomgar Remote Support technologies.</li>
-    <li>Implemented REST protocol and authorization procedures to correlate device-specific data from external software.</li>
-    <li>Researched and built over 100 of the top queries for Axonius’ clients to visualize greater insights of their device network.</li>
-    <li>Identified new software to integrate. Resulted with the Cisco AMP feature, increasing relative market coverage by 11%.</li>
-    <li>Used Python, MongoDB, MySQL, JavaScript, Git, AWS, and Docker.</li>
-    </ul>""",
+    "description": "<ul><li>Built and shipped backend features for several multinational companies.</li><li>Features include integrative support for Dropbox Business, Cisco Advanced Malware Protection (AMP), Solarwinds Network Performance Manager, Fresh Service and Bomgar Remote Support technologies.</li><li>Implemented REST protocol and authorization procedures to correlate device-specific data from external software.</li><li>Researched and built over 100 of the top queries for Axonius’ clients to visualize greater insights of their device network.</li><li>Identified new software to integrate. Resulted with the Cisco AMP feature, increasing relative market coverage by 11%.</li><li>Used Python, MongoDB, MySQL, JavaScript, Git, AWS, and Docker.</li></ul>",
     "image": "axonius.png"
   },
   {
@@ -33,10 +23,7 @@
     "company": "Management and Technology Summer Institute",
     "startDate": "July 2017",
     "endDate": "July 2017",
-    "description": """<ul><li>Advised the development of a computer vision system that reads license plates and references a list of handicap drivers.</li>
-    <li>Guided the implementation of an ultrasonic range finder that alerts bicyclists of nearby vehicles.</li>
-    <li>Mentored two teams of five students that collectively won awards for Best Product, Best Prototype and Director’s Choice.</li>
-    </ul>""",
+    "description": "<ul><li>Advised the development of a computer vision system that reads license plates and references a list of handicap drivers.</li><li>Guided the implementation of an ultrasonic range finder that alerts bicyclists of nearby vehicles.</li><li>Mentored two teams of five students that collectively won awards for Best Product, Best Prototype and Director’s Choice.</li></ul>",
     "image": "mt.jpg"
   }
 ]
