@@ -4,15 +4,23 @@
     "organization": "City Step",
     "startDate": "October 2017",
     "endDate": "Present",
-    "description": "<ul><li>Teach inner city kids hip hop.</li></ul>",
-    "image": "pennlabs.png"
+    "description": "<ul><li>Introduce elementary school students in West Philadelphia to the preforming arts, as an outlet of creative self-expression.</li><li>Engage with the same class two times per week, building relationships and training for the final hip hop dance performance.</li></ul>",
+    "image": "citystep.png"
   },
   {
     "title": "Wharton Council Committee Chair",
     "organization": "Wharton Council",
-    "startDate": "January 2018",
-    "endDate": "December 2018",
-    "description": "<ul><li>Plan and execute events for the Wharton community.</li></ul>",
-    "image": "yh.svg"
+    "startDate": "January 2017",
+    "endDate": "Present",
+    "description": "<ul><li>Lead the Traditions Committee, which plans annual events that attract hundreds of students from the Wharton community.</li><li>Organized the Wharton 5K, a run with over 500 students that donated $7500 to Minding your Mind in 2018.</li><li>Organized Chillin n’ Grillin, a barbeque with over 600 Penn students that hosted local musicians and caterers.</li><li>Organized Business of Life Lecture, a talk given by NFL star Justin Tuck, astronaut Garrett Reisman, and rapper Hoodie Allen.</li></ul>",
+    "image": "wc.jpeg"
+  },
+  {
+    "title": "Faith Always Wins Youth Board Director",
+    "organization": "Faith Always Wins",
+    "startDate": "October 2014",
+    "endDate": "May 2016",
+    "description": "<ul><li>LEngaged thousands of people from Kansas City in SevenDays, an event to promote personal growth and cultural acceptance.</li><li>Designed an educational program, which exposed 22,000 students in the Blue Valley School District to new cultures and faiths.</li><li>Planned two walks to honor those lost in the 2014 Jewish Community Center hate crime. Over 6,000 people participated.</li></ul>",
+    "image": "faw.png"
   }
 ]
