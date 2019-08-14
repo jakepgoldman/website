@@ -21,7 +21,33 @@
     "technologies": "ReactJS, Python, Flask, SQL, Leaflet, AWS",
     "startDate": "October 2018",
     "endDate": "December 2018",
-    "desktopImage": "insuricane.png",
+    "desktopImage": "newadobe.png",
+    "mobileImage": null,
+    "color": "#404040"
+  },
+  {
+    "title": "IntelliCane",
+    "description": "Smart cane built for the visually impaired that detects and alerts the user of objects at or above the waist.",
+    "slug": "intellicane",
+    "link": "https://vimeo.com/292049434",
+    "repo": null,
+    "technologies": "Arduino, C++",
+    "startDate": "December 2016",
+    "endDate": "December 2016",
+    "desktopImage": null,
+    "mobileImage": null,
+    "color": "#404040"
+  },
+  {
+    "title": "Banter",
+    "description": "Enables individuals in friend groups to make prop bet polls within the group. In prototyping stage.",
+    "slug": "banter",
+    "link": null,
+    "repo": null,
+    "technologies": "Figma",
+    "startDate": "July 2019",
+    "endDate": "Present",
+    "desktopImage": null,
     "mobileImage": null,
     "color": "#404040"
   }
