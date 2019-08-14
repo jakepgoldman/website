@@ -17,13 +17,12 @@
     </div>
   </div>
   <div class="screenshot-wrapper">
-    <div class="browser-screenshot">
-      <div class="top">
-        <span class="circle"></span>
-        <span class="circle"></span>
-        <span class="circle"></span>
-      </div>
-      <img src="/img/projects/{{this.desktopImage}}" alt="{{this.title}}" class="img-fluid" />
-    </div>
+    {{#if this.desktopImage}}
+    <img src="/img/projects/{{this.desktopImage}}" alt="{{this.title}}" class="rounded" style="margin-bottom:25px;" />
+    {{/if}}
+    {{#if this.mobileImage}}
+      <img src="/img/projects/{{this.mobileImage}}" alt="{{this.title}}" class="img-fluid" style="width:35%; margin:0px 10px 25px 25px;"/>
+      <img src="/img/projects/{{this.mobileImage1}}" alt="{{this.title}}" class="img-fluid" style="width:35%; margin:0px 25px 25px 0px;"/>
+    {{/if}}
   </div>
 </div>

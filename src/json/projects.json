@@ -8,9 +8,10 @@
     "technologies": "React Native, Redux, Python, Flask, MongoDB, Heroku",
     "startDate": "February 2019",
     "endDate": "Present",
-    "desktopImage": "orthly.png",
-    "mobileImage": null,
-    "color": "#6fdbbb"
+    "desktopImage": null,
+    "mobileImage": "bunker1.png",
+    "mobileImage1": "bunker2.png",
+    "color": "#00A8E8"
   },
   {
     "title": "Abode",
@@ -23,7 +24,8 @@
     "endDate": "December 2018",
     "desktopImage": "newadobe.png",
     "mobileImage": null,
-    "color": "#404040"
+    "mobileImage1": null,
+    "color": "#007EA7"
   },
   {
     "title": "IntelliCane",
@@ -36,7 +38,8 @@
     "endDate": "December 2016",
     "desktopImage": null,
     "mobileImage": null,
-    "color": "#404040"
+    "mobileImage1": null,
+    "color": "#003459"
   },
   {
     "title": "Banter",
@@ -48,7 +51,8 @@
     "startDate": "July 2019",
     "endDate": "Present",
     "desktopImage": null,
-    "mobileImage": null,
-    "color": "#404040"
+    "mobileImage": "banter1.png",
+    "mobileImage1": "banter2.png",
+    "color": "#00171F"
   }
 ]
