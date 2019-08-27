@@ -1,5 +1,19 @@
 [
   {
+    "title": "D-Doc",
+    "description": "Allows product users to publicly crowdsource their pain points, helping PMs make more data-driven decisions.",
+    "slug": "d-doc",
+    "link": "https://d-doc-client.herokuapp.com",
+    "repo": "https://github.com/jakepgoldman/d-doc",
+    "technologies": "React, Node.js, MongoDB, Heroku",
+    "startDate": "July 2019",
+    "endDate": "Present",
+    "desktopImage": "d-doc.png",
+    "mobileImage": null,
+    "mobileImage1": null,
+    "color": "#00A8E8"
+  },
+  {
     "title": "Bunker Golf",
     "description": "Enables golfers to rent their golf clubs to individuals in a similar geographic area.",
     "slug": "bunker",
@@ -7,7 +21,7 @@
     "repo": "https://github.com/jakepgoldman/bunker",
     "technologies": "React Native, Redux, Python, Flask, MongoDB, Heroku",
     "startDate": "February 2019",
-    "endDate": "Present",
+    "endDate": "June 2019",
     "desktopImage": null,
     "mobileImage": "bunker1.png",
     "mobileImage1": "bunker2.png",
